@@ -13,7 +13,6 @@ def loop_iterator(number_of_times)
     counter = 1
     counter += 1 
     break if counter = 8
-  end
 end
 
 def times_iterator(number_of_times)
